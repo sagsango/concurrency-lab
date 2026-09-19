@@ -1,0 +1,18 @@
+[submodule "cs454-s24-a0-sagsango"]
+	path = cs454-s24-a0-sagsango
+	url = https://github.com/cs474-uic/cs454-s24-a0-sagsango.git
+[submodule "cs454-s24-a1-sagsango"]
+	path = cs454-s24-a1-sagsango
+	url = https://github.com/cs474-uic/cs454-s24-a1-sagsango.git
+[submodule "cs454-s24-a2-sagsango"]
+	path = cs454-s24-a2-sagsango
+	url = https://github.com/cs474-uic/cs454-s24-a2-sagsango.git
+[submodule "cs454-s24-a3-sagsango"]
+	path = cs454-s24-a3-sagsango
+	url = https://github.com/cs474-uic/cs454-s24-a3-sagsango.git
+[submodule "cs454-s24-a4-sagsango"]
+	path = cs454-s24-a4-sagsango
+	url = https://github.com/cs474-uic/cs454-s24-a4-sagsango.git
+[submodule "cs454-s24-a5-sagsango"]
+	path = cs454-s24-a5-sagsango
+	url = https://github.com/cs474-uic/cs454-s24-a5-sagsango.git
